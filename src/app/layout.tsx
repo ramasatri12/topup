@@ -5,6 +5,10 @@ import "../styles/utilities.css";
 import "../styles/detail.css";
 import "../styles/checkout.css";
 import "../styles/complete-checkout.css";
+import "../styles/sign-in.css";
+import "../styles/404-not-found.css";
+
+
 
 import Script from "next/script";
 import { useEffect } from "react";
