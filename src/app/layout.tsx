@@ -3,6 +3,8 @@
 import "../styles/homepage.css";
 import "../styles/utilities.css";
 import "../styles/detail.css";
+import "../styles/checkout.css";
+import "../styles/complete-checkout.css";
 
 import Script from "next/script";
 import { useEffect } from "react";
